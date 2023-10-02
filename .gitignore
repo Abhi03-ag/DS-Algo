@@ -1,7 +1,10 @@
-#Add the files to not include files in the staging area.
+#Compiled class file
 *.class
+#Executable Files
 *.exe
+#IO Files
 *.in
 *.txt
+#Sublime workspace settings
 *.sublime-project
 *.sublime-workspace
