@@ -1,0 +1,7 @@
+#Add the files to not include files in the staging area.
+*.class
+*.exe
+*.in
+*.txt
+*.sublime-project
+*.sublime-workspace
